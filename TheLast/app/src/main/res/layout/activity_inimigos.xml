@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background7"
+    tools:context=".Gameplay">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageButton
+                android:id="@+id/ib_voltar"
+                android:layout_width="80dp"
+                android:layout_height="55dp"
+                android:layout_marginStart="-165dp"
+                android:layout_marginTop="10dp"
+                android:background="@null"
+                android:contentDescription="@string/sair"
+                android:tint="@color/amarelo"
+                app:srcCompat="@android:drawable/ic_menu_close_clear_cancel"
+                tools:ignore="UseAppTint,ImageContrastCheck" />
+
+            <ImageView
+
+                android:layout_width="367dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="10dp"
+                android:contentDescription="@string/titulo"
+                app:srcCompat="@drawable/enemy"
+                tools:ignore="ImageContrastCheck" />
+
+            <TextView
+
+                android:layout_width="351dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="55dp"
+                android:fontFamily="@font/alata"
+                android:gravity="left"
+                android:text="@string/agentes_da_fedra"
+                android:textColor="#FF9800"
+                android:textSize="35sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck,TextContrastCheck" />
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:contentDescription="@string/games"
+                app:srcCompat="@drawable/militares" />
+
+            <TextView
+
+                android:layout_width="388dp"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/alata"
+                android:gravity="center"
+                android:text="@string/fedra"
+                android:textColor="#FF9800"
+                android:textSize="17sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck" />
+
+            <TextView
+
+                android:layout_width="388dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="55dp"
+                android:fontFamily="@font/alata"
+                android:gravity="left"
+                android:text="@string/ca_adores"
+                android:textColor="#FF9800"
+                android:textSize="35sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck" />
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:contentDescription="@string/games"
+                app:srcCompat="@drawable/cacadores" />
+
+            <TextView
+
+                android:layout_width="351dp"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/alata"
+                android:gravity="center"
+                android:text="@string/caça"
+                android:textColor="#FF9800"
+                android:textSize="17sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck" />
+
+            <TextView
+
+                android:layout_width="388dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="55dp"
+                android:fontFamily="@font/alata"
+                android:gravity="left"
+                android:text="@string/corredores1"
+                android:textColor="#FF9800"
+                android:textSize="35sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck" />
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:contentDescription="@string/games"
+                app:srcCompat="@drawable/corredores" />
+
+            <TextView
+
+                android:layout_width="351dp"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/alata"
+                android:gravity="center"
+                android:text="@string/corredores"
+                android:textColor="#FF9800"
+                android:textSize="17sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck" />
+
+            <TextView
+
+                android:layout_width="388dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="55dp"
+                android:fontFamily="@font/alata"
+                android:gravity="left"
+                android:text="@string/perseguidores"
+                android:textColor="#FF9800"
+                android:textSize="35sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck" />
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:contentDescription="@string/games"
+                app:srcCompat="@drawable/estaladores" />
+
+            <TextView
+
+                android:layout_width="351dp"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/alata"
+                android:gravity="center"
+                android:text="@string/Perseguidores"
+                android:textColor="#FF9800"
+                android:textSize="17sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck" />
+            <TextView
+
+
+                android:layout_width="388dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="55dp"
+                android:fontFamily="@font/alata"
+                android:gravity="left"
+                android:text="@string/estaladores1"
+                android:textColor="#FF9800"
+                android:textSize="35sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck" />
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:contentDescription="@string/games"
+                app:srcCompat="@drawable/estaladores2" />
+
+            <TextView
+
+
+                android:layout_width="351dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/alata"
+                android:gravity="center"
+                android:text="@string/Estaladores"
+                android:textColor="#FF9800"
+                android:textSize="17sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck" />
+            <TextView
+
+                android:layout_width="388dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="55dp"
+                android:fontFamily="@font/alata"
+                android:gravity="left"
+                android:text="Baiacu"
+                android:textColor="#FF9800"
+                android:textSize="35sp"
+                tools:ignore="HardcodedText,RtlHardcoded,TextSizeCheck" />
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:contentDescription="@string/games"
+                app:srcCompat="@drawable/baiacu" />
+
+            <TextView
+
+                android:layout_width="351dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/alata"
+                android:gravity="center"
+                android:text="@string/baiacu"
+                android:textColor="#FF9800"
+                android:textSize="17sp"
+                tools:ignore="RtlHardcoded,TextSizeCheck" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

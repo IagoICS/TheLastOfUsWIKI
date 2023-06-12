@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="425dp"
+        android:layout_height="315dp"
+        android:importantForAccessibility="no"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/the_last_of_us_1"
+        tools:ignore="VisualLintBounds" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="37dp"
+        android:layout_marginStart="20dp"
+        android:fontFamily="@font/bebas_neue"
+        android:scaleY="1.2"
+        android:text="@string/personagens"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp"
+        app:drawableStartCompat="@android:drawable/ic_menu_mylocation"
+        tools:ignore="TextSizeCheck" />
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_width="410dp"
+        android:layout_height="149dp"
+        android:contentDescription="@string/scrolltest"
+        android:fadeScrollbars="false"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+        android:visibility="visible"
+        tools:visibility="visible">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            tools:ignore="VisualLintBounds">
+
+            <ImageButton
+                android:id="@+id/ib_joel"
+                android:layout_width="176dp"
+                android:layout_height="125dp"
+                android:layout_marginStart="-15dp"
+                android:background="@null"
+                android:contentDescription="@string/joel_miller1"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/joel_miller"
+                tools:ignore="VisualLintBounds,ImageContrastCheck" />
+
+
+            <ImageButton
+
+                android:id="@+id/ib_ellie"
+                android:layout_width="176dp"
+                android:layout_height="125dp"
+                android:layout_marginStart="7dp"
+                android:background="@null"
+                android:contentDescription="@string/ellie"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/ellie"
+                tools:ignore="VisualLintBounds,ImageContrastCheck" />
+
+            <ImageButton
+
+                android:id="@+id/ib_tess"
+                android:layout_width="176dp"
+                android:layout_height="125dp"
+                android:layout_marginStart="5dp"
+                android:background="@null"
+                android:contentDescription="@string/tess"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/tess"
+                tools:ignore="VisualLintBounds,ImageContrastCheck" />
+
+            <ImageButton
+                android:id="@+id/ib_marlene"
+                android:layout_width="176dp"
+                android:layout_height="125dp"
+                android:layout_marginStart="5dp"
+                android:background="@null"
+                android:contentDescription="@string/marlene"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/marlene"
+                tools:ignore="VisualLintBounds,ImageContrastCheck" />
+
+            <ImageButton
+                android:layout_width="176dp"
+                android:layout_height="125dp"
+                android:layout_marginStart="5dp"
+                android:background="@null"
+                android:contentDescription="@string/tommy"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/tommy"
+                tools:ignore="VisualLintBounds,ImageContrastCheck" />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="-855dp"
+                android:layout_marginTop="125dp"
+
+                android:fontFamily="@font/bebas_neue"
+                android:text="@string/joel_miller"
+                android:textColor="#FFc107"
+                android:textSize="20sp"
+                tools:ignore="TextSizeCheck" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="95dp"
+                android:layout_marginTop="125dp"
+                android:fontFamily="@font/bebas_neue"
+                android:text="@string/ellie_williams"
+                android:textColor="#FFC107"
+                android:textSize="20sp"
+                 />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="115dp"
+                android:layout_marginTop="125dp"
+                android:fontFamily="@font/bebas_neue"
+                android:text="@string/tess1"
+                android:textColor="#FFC107"
+                android:textSize="20sp"
+                 />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="125dp"
+                android:layout_marginTop="125dp"
+                android:fontFamily="@font/bebas_neue"
+                android:text="@string/marlene2"
+                android:textColor="@color/amarelo"
+                android:textSize="20sp"
+               />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="120dp"
+                android:layout_marginTop="125dp"
+                android:fontFamily="@font/bebas_neue"
+                android:text="@string/tommy1"
+                android:textColor="#FFC107"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="235dp"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/scrolltest"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ImageButton
+                android:id="@+id/ib_enredo"
+                android:layout_width="443dp"
+                android:layout_height="235dp"
+                android:layout_marginStart="-10dp"
+                android:background="@null"
+                android:contentDescription="@string/enredo"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/enredo" />
+
+            <ImageButton
+
+                android:id="@+id/ib_inimigo"
+                android:layout_width="443dp"
+                android:layout_height="235dp"
+                android:layout_marginStart="-10dp"
+                android:layout_marginTop="-5dp"
+                android:background="@null"
+                android:contentDescription="@string/inimigo"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/inimigos" />
+
+            <ImageButton
+
+                android:id="@+id/ib_gameplay"
+                android:layout_width="443dp"
+                android:layout_height="235dp"
+                android:layout_marginStart="-10dp"
+                android:layout_marginTop="-5dp"
+                android:background="@null"
+                android:contentDescription="@string/gameplay"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/gameplay" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

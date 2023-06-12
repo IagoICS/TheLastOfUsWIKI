@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TheLast</string>
+    <string name="joel_miller">Joel Miller</string>
+    <string name="ellie">ellie</string>
+    <string name="joel_miller1">joel miller</string>
+    <string name="scrolltest">ScrollTest</string>
+    <string name="enredo">Enredo</string>
+    <string name="inimigo">inimigo</string>
+    <string name="gameplay">gameplay</string>
+    <string name="tess">tess</string>
+    <string name="marlene">marlene</string>
+    <string name="tommy">tommy</string>
+    <string name="marlene2">Marlene</string>
+    <string name="tess1">Tess</string>
+    <string name="ellie_williams">Ellie Williams</string>
+    <string name="tommy1">Tommy</string>
+    <string name="Historia">No mundo pós-apocalíptico de The Last of Us, os jogadores são apresentados a um cenário sombrio e desolado, onde uma pandemia mortal transformou a maioria da humanidade em criaturas infectadas sedentas de sangue. A história se concentra em Joel, um sobrevivente endurecido pela perda, e Ellie, uma jovem corajosa e imune ao vírus.
+\n\nForçados a se unirem em uma jornada perigosa, Joel e Ellie embarcam em uma missão desesperada para atravessar os Estados Unidos devastados e entregar Ellie a um grupo chamado de Os Vaga-Lumes. Essa facção rebelde busca encontrar uma cura para a infecção que assola o mundo, e Ellie pode conter a chave para a sobrevivência da humanidade.
+
+        \n\nAo longo da narrativa, os jogadores testemunham a evolução do relacionamento entre Joel e Ellie, enquanto enfrentam diversos perigos e encontram outros sobreviventes, cada um com suas próprias motivações e segredos sombrios. O enredo é habilmente tecido com momentos de tensão, emoção e descobertas surpreendentes, levando a um desfecho impactante.
+
+        \n\nA história de The Last of Us aborda temas profundos, como sobrevivência, sacrifício, moralidade e a luta pela esperança em meio ao caos. O jogo explora a natureza humana em situações extremas, apresentando dilemas éticos e confrontando os jogadores com escolhas difíceis ao longo da jornada.
+
+        \n\nCom uma narrativa envolvente e personagens complexos, The Last of Us cativa os jogadores, levando-os a uma jornada emocionalmente intensa através de um mundo pós-apocalíptico cruel. A história rica e envolvente é um dos pontos altos do jogo, imergindo os jogadores em um universo repleto de suspense, emoção e reflexão.</string>
+    <string name="titulo">titulo</string>
+    <string name="sair">sair</string>
+    <string name="personagens">Personagens</string>
+    <string name="gameplay2">A ação furtiva é uma parte crucial da jogabilidade. Os jogadores são frequentemente confrontados com situações perigosas e precisam se mover silenciosamente, usando a furtividade para evitar inimigos ou eliminá-los de forma rápida e eficiente. A inteligência artificial dos inimigos é desafiadora, exigindo estratégia e planejamento cuidadosos para superá-los.
+
+        \n\nAlém disso, o combate também desempenha um papel significativo. Os jogadores têm acesso a uma variedade de armas improvisadas e de fogo, bem como a habilidades de combate corpo a corpo. Cada confronto é tenso e realista, incentivando os jogadores a avaliar suas opções e tomar decisões rápidas para sobreviver.
+
+        \n \n  A exploração é uma parte fundamental da jogabilidade. Os ambientes são meticulosamente projetados, repletos de detalhes e segredos a serem descobertos. Os jogadores podem explorar áreas abandonadas, procurar por suprimentos escassos e ler notas deixadas por outros sobreviventes, que fornecem informações adicionais sobre o mundo sombrio em que estão.</string>
+    <string name="amazon">amazon</string>
+    <string name="games">games</string>
+    <string name="agentes_da_fedra">Agentes da Fedra</string>
+    <string name="fedra">Os militares aparecem durante toda a jornada com um nível altíssimo de percepção de campo e precisão nos disparos. Sempre que encontrar um grupo de militares tente executar todos silenciosamente, utilizando objetos para separar os indivíduos enquanto elimina um por um. Se for notado acidentalmente tente visualizar o número de inimigos através da escuta aguçada e considere a hipótese de correr desesperadamente em busca de segurança.</string>
+    <string name="ca_adores">Caçadores</string>
+    <string name="caça">O grupo chamado de Os Caçadores é formado por inúmeros sobreviventes que utilizam recursos extremos para tentar sobreviver, executando estranhos em busca de suprimentos. Estes inimigos usam armas de fogo e atacam em grupos. Priorize a abordagem silenciosa e recolha os suprimentos deixados nos corpos das vítimas.</string>
+    <string name="corredores">Os corredores representam o primeiro estágio da atuação do fungo nos humanos. Ainda com características físicas básicas próximas do convencional, os runners apresentam um tom de pele pálido e constantes sangramentos. Com uma visão que ainda funciona superficialmente, os corredores visualizam pequenas movimentações, sendo recomendado uma abordagem silenciosa sempre que possível, mantendo-se fora do campo de visão do inimigo.</string>
+<string name="Perseguidores">Os Perseguidores estão em um estágio entre os Corredores e os Estaladores. Embora sua face não tenha sido toda destruída pelo fungo, preservando ainda algumas áreas identificáveis, os Perseguidores trazem um sentido de investigação mais aguçado, exigindo bastante cuidado nas abordagens. É recomendado enfrentar estes inimigos em locais com apenas uma entrada para filtrar o número de adversários, utilizando sempre uma arma branca.</string>
+    <string name="perseguidores">Perseguidores</string>
+    <string name="corredores1">Corredores</string>
+    <string name="Estaladores">Os Estaladores apresentam um avançado estágio do fungo, com a parte superior do rosto completamente dilacerada e dominada pelo Cordyceps. Para identificar a movimentação dos seres vivos os estaladores utilizam uma espécie de radar sonoro, emitindo pequenos ruídos seguidas vezes para captar possíveis movimentações. É impossível efetuar socos nos estaladores, sendo recomendado a utilização de facas em abordagens silenciosas ou armas de fogo quando o inimigo se move em sua direção.</string>
+    <string name="estaladores1">Estaladores</string>
+    <string name="baiacu">Os Vermes apresentam o fungo em seu estágio mais avançado, onde o Cordyceps já dominou todo o corpo do indivíduo, criando uma espécie de escudo que neutraliza ataques mais fracos. O inimigo deve ser combatido com armas de fogo em uma distância média. Sempre que possível utilize o lança-chamas para eliminar a espécie rapidamente.</string>
+    <string name="SobreJoel">Joel ( Troy Baker ) - O protagonista do jogo. Joel é um sobrevivente do surto de infecção cerebral por Cordyceps, residindo na Zona de Quarentena de Boston. Amargurado e endurecido pela morte de sua filha Sarah, Joel opera como contrabandista no mercado negro, lidando com contrabando, aceitando vários empregos desumanos ao longo dos anos para sobreviver neste novo mundo pós-pandêmico. Ele tem apenas alguns limites morais para cruzar. Infelizmente para ele, ele é jogado no meio do pesadelo em que o mundo se tornou, quando a líder dos Vagalumes, Marlene, pede a ele para cuidar de Ellie. Ao longo do jogo, Joel lentamente desenvolve um vínculo inquebrável com Ellie e um desejo de mais uma vez abrir suas emoções que reprimiu por tantos anos.</string>
+    <string name="Ellie">Ellie ( Ashley Johnson ) - A deuteragonista do jogo. Ellie é uma corajosa garota de 14 anos que cresceu neste mundo cruel e é tudo o que ela já conheceu. Ellie é imune à cepa Cordyceps e por causa disso, os Vagalumes, uma organização antigovernamental, buscam fazer a engenharia reversa de uma vacina por meio dela. Ela e Joel viajam pelos Estados Unidos pós-pandemia para alcançar os Vagalumes. Ela ajuda o jogador ao longo do jogo de várias maneiras, ajudando no combate e auxiliando em áreas do jogo que de outra forma seriam inacessíveis. Ela frequentemente expressa curiosidade sobre os restos de um mundo que não existe mais.</string>
+    <string name="Tess">Tess ( Annie Wersching ) - Tess é a parceira do crime de Joel. Eles operam no mercado negro de uma cidade sob lei marcial e ganharam reputação por seu comportamento implacável. Ela e Joel têm uma confiança profunda entre eles. Tess vai com Joel deixar Ellie com os Vagalumes no prédio do Capitólio em Boston, em troca de recuperar as armas que foram roubadas deles. Contra todas as probabilidades, o trio chega ao Capitólio apenas para descobrir que os Vagalumes estão mortos, e Tess revela que foi mordida por um corredor uma hora antes. Ela segura alguns soldados depois de fazer Joel prometer trazer Ellie para Tommy, o irmão mais novo de Joel.</string>
+</resources>
