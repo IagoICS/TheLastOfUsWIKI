@@ -30,6 +30,16 @@ public class MainActivity extends AppCompatActivity {
             Intent tessintent = new Intent(MainActivity.this,Tess.class);
             startActivity(tessintent);
         });
+        ImageButton ib_marlene = findViewById(R.id.ib_marlene);
+        ib_marlene.setOnClickListener(v -> {
+            Intent marleneintent = new Intent(MainActivity.this,Marlene.class);
+            startActivity(marleneintent);
+        });
+        ImageButton ib_tommy = findViewById(R.id.ib_tommy);
+        ib_tommy.setOnClickListener(v -> {
+            Intent tommyintent = new Intent(MainActivity.this,Tommy.class);
+            startActivity(tommyintent);
+        });
         ImageButton ib_enredo = findViewById(R.id.ib_enredo);
         ib_enredo.setOnClickListener(v -> {
             Intent enredointent = new Intent(MainActivity.this,Enredo.class);

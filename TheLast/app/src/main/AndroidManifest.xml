@@ -13,6 +13,12 @@
         android:theme="@style/Theme.TheLast"
         tools:targetApi="31">
         <activity
+            android:name=".Marlene"
+            android:exported="false" />
+        <activity
+            android:name=".Tommy"
+            android:exported="false" />
+        <activity
             android:name=".Tess"
             android:exported="false" />
         <activity
