@@ -37,7 +37,7 @@ Ao clicar no button inimigos o usuário é direcionado a activity contendo as in
 
 ### Enredo
 <p align ="justify">
-No button enredo mostrado no menu, abre uma activity com as informações sobre a história do jogo, scrollando ao final da tela, há um link em formato de icone que permite que o usuário acesse uma página na amazon para a compra do jogo:
+No button enredo, mostrado no menu, abre uma activity com as informações sobre a história do jogo, scrollando ao final da tela, há um link em formato de icone que permite que o usuário acesse uma página na amazon para a compra do jogo:
 <p align ="center">
 <img src="./imgs/enredo2.jpg" width=250 height=475>
 <img src="./imgs/enredo3.jpg" width=250 height=475>
