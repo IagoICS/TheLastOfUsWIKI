@@ -4,6 +4,8 @@
 Em nosso projeto foi realizada a criação de um aplicativo simples baseado no jogo para console "The Last Of Us (Part 1)",
 cumprindo com os requisitos necessários na inserção de Activities, Views e Intents explícitas e implicitas, sendo assim,
 foi criado uma wiki contendo as informações principais do jogo.  
+
+ ### Link do vídeo: https://www.youtube.com/watch?v=6XyvmuV8s30
 </p>  
 
 ## Navegação 🧭
