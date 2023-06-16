@@ -13,7 +13,6 @@
         android:layout_width="425dp"
         android:layout_height="315dp"
         android:importantForAccessibility="no"
-        app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/the_last_of_us_1"
         tools:ignore="VisualLintBounds" />
 
